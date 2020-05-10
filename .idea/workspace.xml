@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07945ec9-c5e1-4da2-be5c-6aad843dbc5f" name="Default Changelist" comment="" />
+    <list default="true" id="07945ec9-c5e1-4da2-be5c-6aad843dbc5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flaskAppZaibas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flaskAppZaibas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/data/db.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bTmU7sq8WtSOGXnadaAqmooWIe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,10 +26,32 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="init" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flaskAppZaibas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/init.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="flaskAppZaibas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -43,6 +76,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.init" />
       </list>
     </recent_temporary>
   </component>
@@ -59,14 +93,58 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="107" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588664853009">
+    <state x="107" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588878161979">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="107" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1588664853009" />
+    <state x="107" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1588878161979" />
+    <state x="107" y="265" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.842@0.23.1440.842" timestamp="1588877222127" />
+    <state x="332" y="23" width="775" height="842" key="CommitChangelistDialog2" timestamp="1588878079677">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="332" y="23" width="775" height="842" key="CommitChangelistDialog2/0.23.1440.842@0.23.1440.842" timestamp="1588878079677" />
+    <state x="582" y="348" key="Github.ShareDialog" timestamp="1588877277533">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="582" y="348" key="Github.ShareDialog/0.23.1440.842@0.23.1440.842" timestamp="1588877277533" />
+    <state x="465" y="156" key="Github.UntrackedFilesDialog" timestamp="1588877282438">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="465" y="156" key="Github.UntrackedFilesDialog/0.23.1440.842@0.23.1440.842" timestamp="1588877282438" />
+    <state width="1419" height="254" key="GridCell.Tab.0.bottom" timestamp="1589116874322">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588930713346" />
+    <state width="1419" height="254" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589116874322" />
+    <state width="1419" height="228" key="GridCell.Tab.0.bottom/0.23.1440.842@0.23.1440.842" timestamp="1588877826820" />
+    <state width="1419" height="254" key="GridCell.Tab.0.center" timestamp="1589116874321">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588930713344" />
+    <state width="1419" height="254" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589116874321" />
+    <state width="1419" height="228" key="GridCell.Tab.0.center/0.23.1440.842@0.23.1440.842" timestamp="1588877826819" />
+    <state width="1419" height="254" key="GridCell.Tab.0.left" timestamp="1589116874320">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588930713343" />
+    <state width="1419" height="254" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589116874320" />
+    <state width="1419" height="228" key="GridCell.Tab.0.left/0.23.1440.842@0.23.1440.842" timestamp="1588877826819" />
+    <state width="1419" height="254" key="GridCell.Tab.0.right" timestamp="1589116874322">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588930713345" />
+    <state width="1419" height="254" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589116874322" />
+    <state width="1419" height="228" key="GridCell.Tab.0.right/0.23.1440.842@0.23.1440.842" timestamp="1588877826819" />
     <state x="229" y="83" key="SettingsEditor" timestamp="1588877083738">
       <screen x="0" y="23" width="1440" height="842" />
     </state>
     <state x="229" y="83" key="SettingsEditor/0.23.1440.842@0.23.1440.842" timestamp="1588877083738" />
+    <state x="523" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588877906906">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="523" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.842@0.23.1440.842" timestamp="1588877906906" />
   </component>
 </project>
